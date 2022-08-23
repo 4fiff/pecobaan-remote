@@ -1,0 +1,2 @@
+abc = cobacoava
+print(abc)
