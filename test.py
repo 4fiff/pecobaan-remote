@@ -1,2 +1,2 @@
-abc = cobacoava
-print(abc)
+abc = "cobacoava"
+print(abc)v
